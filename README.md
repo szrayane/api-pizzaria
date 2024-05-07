@@ -17,7 +17,8 @@ A API de Pizzaria fornece endpoints para gerenciar clientes e pedidos de uma piz
 </div>
 
 ## Modelo Entidade-Relacionamento (MER)
-<img src="https://github.com/szrayane/api-pizzaria/assets/133218648/4c8b4edc-f8dd-43e6-a256-2009a1ea835a">
+<img src="![image](https://github.com/szrayane/api-pizzaria/assets/133218648/7d961742-4d1a-4b7a-a9c8-aa6eb5708e3d)
+">
 
 
 ## Configuração do Ambiente
